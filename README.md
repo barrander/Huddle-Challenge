@@ -9,3 +9,7 @@
 - Michel Nóbrega
 
 Turma: P1B - Noite
+
+Desafio Escolhido: https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0
+
+
